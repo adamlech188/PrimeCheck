@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 AndroipApps
 ===========
 
@@ -24,3 +25,9 @@ PrimeChecker
 
 Checks whether a number is prime.
 >>>>>>> 1e2024d5bef8a25afb0d674fbd79a42f4d6c914c
+=======
+PrimeChecker
+============
+
+Checks for prime numbers.
+>>>>>>> 4d029a50989551fb3be523a65f5d53a3d92df108
