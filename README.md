@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 AndroipApps
 ===========
 
@@ -17,3 +18,9 @@ LinkedQueue
 This collection of classes creates a classical data structure Queue , implementing standard Java Platform Interface Queue&lt;E>. It uses doubly linked nodes. 
 It contains tests which use instantiation of abstract class Queue. 
 >>>>>>> 7e32d06b549960ff7f47903337034df1b0da98d1
+=======
+PrimeChecker
+============
+
+Checks whether a number is prime.
+>>>>>>> 1e2024d5bef8a25afb0d674fbd79a42f4d6c914c
